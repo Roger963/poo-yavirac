@@ -25,7 +25,9 @@ body {
   padding: 10px;
   text-align: center;
 }
-
+.blog{
+  color: brown;
+}
 .header {
   grid-area: header;
   display: flex;
@@ -36,16 +38,29 @@ body {
 }
 
 .main {
+  margin-top: 70px;
+  grid-area: main;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.perfil{
   grid-area: main;
   display: flex;
   align-items: center;
   justify-content: center;
+} 
+
+div{
+  margin: 20px;
 }
-.boton {
-  display: ;
-}
+
 .footer {
   grid-area: footer;
+  display: flex;
+  align-items: flex-end;
+  justify-content:initial;
 }
 
 .grid-container {
@@ -54,7 +69,7 @@ body {
   grid-template:
     "header"  100px
     "main"    auto
-    "footer"  100px;
+    "footer"  300px;
 }
 
 @media (min-width: 600px) {
@@ -62,7 +77,7 @@ body {
     grid-template:
       "header  header" 100px
       "main main"   auto
-      "footer  footer" 100px /
+      "footer  footer" 300px /
       200px    auto;
   }
 }
@@ -72,7 +87,7 @@ body {
     grid-template:
       "header  header header"  100px
       "main  main  main " auto
-      "footer  footer footer"  100px /
+      "footer  footer footer"  150px /
       200px    auto   200px;
   }
 }
