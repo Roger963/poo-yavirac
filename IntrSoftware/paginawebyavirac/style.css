@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: 'Akaya Telivigala', cursive;
+  font-size: 1.2rem;
+  min-height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.grid-container > * {
+  box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+  border-radius: 4px;
+  padding: 10px;
+  text-align: center;
+}
+
+.header {
+  grid-area: header;
+  display: flex;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main {
+  grid-area: main;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.boton {
+  display: ;
+}
+.footer {
+  grid-area: footer;
+}
+
+.grid-container {
+  display: grid;
+  gap: 10px;
+  grid-template:
+    "header"  100px
+    "main"    auto
+    "footer"  100px;
+}
+
+@media (min-width: 600px) {
+  .grid-container {
+    grid-template:
+      "header  header" 100px
+      "main main"   auto
+      "footer  footer" 100px /
+      200px    auto;
+  }
+}
+
+@media (min-width: 900px) {
+  .grid-container {
+    grid-template:
+      "header  header header"  100px
+      "main  main  main " auto
+      "footer  footer footer"  100px /
+      200px    auto   200px;
+  }
+}
