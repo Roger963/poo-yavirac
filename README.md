@@ -1,26 +1,31 @@
 Tarea 8. Desarrollar un programa de clases para generar una factura
-(Note: If you swipe from the left (:fa-arrow-left:) side of the screen, you can set up links to your favorite CommonMark files, change the picture, and set up a home page, but *++that's for later++*.)
 
-## Create New Folder and a CommonMark file
+## Para ejecutar localmente, haga lo habitual:
 
-Para ejecutar localmente, haga lo habitual:
+1. Crear un entorno virtual de Python
 
-#. Crear un entorno virtual de Python
-#. Instalar dependencias:
+2. Instalar dependencias:
     
-    pip install -r requisitos/dev.txt
+    pip install -r requirements.txt
 
+3. Crear el super usuario para admin
 
+4. Configuracion archivo settings.py
 
-
-
-Now, if you name this new file `index.md`, as I asked, every time you enter that folder, this file will always be the first to greet you. Write there some welcoming message and place there links to other CommonMark documents, for example, by writing `[My Tasks](tasks.md)`.
-
-:fa-exclamation-triangle: Avoid using spaces in filenames for the beginning. Do it later, when you master CommonMark using Epsilon Notes.
-
-## Support
-
-Epsilon Notes is *a powerful* CommonMark editor with infinite abilities. To write wonderful texts, create your personal wikipedia, and receive advanced help, join our Google Groups community [here](https://groups.google.com/g/epsilon-notes).
+     <summary>DATABASES</summary> 
+     <ol>
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'OPTIONS': {
+            'options': '-c search_path=facturas'
+        },
+        'NAME': 'postgres',
+        'USER': 'postgres',
+        'PASSWORD': '****',
+        'HOST': '192.168.1.1',
+        'PORT': '5432',
+    }
+     </ol>
 
 # Happy writing with Epsilon Notes!
 
