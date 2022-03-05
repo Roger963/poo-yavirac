@@ -16,8 +16,12 @@
      * INSTALLED_APPS
      
 
-### PROGRAMA
-![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/Diagrama%20Modelado.jpg)
+### Caracteristicas del programa 
+* Diagrama Aplicaciones
+        * ![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/Diviision%20Aplicaciones.jpg)
+* Diagrama Modelado
+        * ![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/Diagrama%20Modelado.jpg)
+ 
 
 
 Pagina linkedin
