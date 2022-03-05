@@ -5,7 +5,7 @@ Tarea 8. Desarrollar un programa de clases para generar una factura
 1. Crear un entorno virtual de Python
 
 2. Instalar dependencias:
-    >pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. Crear el super usuario para admin
 
