@@ -12,17 +12,8 @@ Tarea 8. Desarrollar un programa de clases para generar una factura
 
 4. Configuracion archivo settings.py
 
-     
-    > 'default': {
-    >    'ENGINE': 'django.db.backends.postgresql',
-    >    'OPTIONS': {
-    >        'options': '-c search_path=facturas'
-    >    },
-    >    'NAME': 'postgres',
-    >    'USER': 'postgres',
-    >    'PASSWORD': '****',
-    >    'HOST': '192.168.1.1',
-    >    'PORT': '5432',
+     * DATABASES
+     * INSTALLED_APPS
      
 
 # Happy writing with Epsilon Notes!
