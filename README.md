@@ -17,7 +17,7 @@
      
 
 ### PROGRAMA
-![This is an image](https://drive.google.com/file/d/1b86N5RMhYNEya6I5GraZvODKCYPHUzgz/view?usp=sharing)
+![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/Diagrama%20Modelado.jpg)
 
 
 Pagina linkedin
