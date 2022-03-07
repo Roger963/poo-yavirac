@@ -1,4 +1,4 @@
-#Tarea 8. Desarrollar un programa de clases para generar una factura
+#Tarea 9. generar un pagina web en Python
 
 ## Para ejecutar localmente, haga lo habitual:
 
@@ -18,15 +18,15 @@
 
 ### Caracteristicas del programa 
 * Diagrama Aplicaciones
-                  *          ![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/Diviision%20Aplicaciones.jpg)
+                  *          ![alt text]()
 * Diagrama Modelado
-                  *          ![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/Diagrama%20Modelado.jpg)
+                  *          ![alt text]()
  
 (Note: Los Archivoscontructores son en donde se encuentran las clases de cada una de las tablas.)
 
 ### Resultado 
 
-![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/1.png)
+![alt text]()
 
 
 Pagina linkedin
