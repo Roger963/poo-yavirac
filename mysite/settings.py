@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'datosBasicos',
     'datosFactura',
+    'webpag',
 ]
 
 MIDDLEWARE = [
@@ -79,7 +80,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'OPTIONS': {
-            'options': '-c search_path=facturas'
+            'options': '-c search_path=webpag'
         },
         'NAME': 'poo',
         'USER': 'postgres',
