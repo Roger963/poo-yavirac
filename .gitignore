@@ -33,6 +33,8 @@ __pycache__/
 *.py[cod]
 
 # C extensions
+site-packages
+_internal
 *.so
 
 # Distribution / packaging
