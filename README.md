@@ -15,18 +15,19 @@
      * DATABASES
      * INSTALLED_APPS
      
-
-### Caracteristicas del programa 
+### Caracteristicas de la pagina
+ *Html
+ *Css
+ *Bootstrap
+ *js
+### Descripcion de la pagina 
 * Diagrama Aplicaciones
-                  *          ![alt text]()
-* Diagrama Modelado
-                  *          ![alt text]()
+                  *          ![alt text](https://github.com/Roger963/Yavirac/blob/webpag/media/DashboardRoger%20-%20tarea%209.jpg)
  
-(Note: Los Archivoscontructores son en donde se encuentran las clases de cada una de las tablas.)
 
 ### Resultado 
 
-![alt text]()
+![alt text](https://github.com/Roger963/Yavirac/blob/webpag/media/Screenshot_1.png)
 
 
 Pagina linkedin
