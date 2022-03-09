@@ -22,9 +22,11 @@ Para ejecutar localmente, haga lo habitual:
 ### Caracteristicas del programa 
 * CLase constructora
                   *          ![alt text](https://github.com/Roger963/poo-yavirac/blob/MYcrud/media/DashboardRoger%20-%20Frame%206%20(1).jpg)
-* 
-                  *          ![alt text](https://github.com/Roger963/poo-yavirac/blob/MYcrud/media/backend.png)
-                  *          ![alt text](https://github.com/Roger963/poo-yavirac/blob/MYcrud/media/fronted.jpg)
+## Backend
+          
+ ![alt text](https://github.com/Roger963/poo-yavirac/blob/MYcrud/media/backend.png)
+## Fronted  
+  *          ![alt text](https://github.com/Roger963/poo-yavirac/blob/MYcrud/media/fronted.jpg)
  
 
 ### Resultado 
