@@ -37,8 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'datosBasicos',
-    'datosFactura',
+    'crud.apps.CrudConfig',
+
 ]
 
 MIDDLEWARE = [
@@ -77,15 +77,12 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'OPTIONS': {
-            'options': '-c search_path=facturas'
-        },
-        'NAME': 'poo',
-        'USER': 'postgres',
-        'PASSWORD': '3991',
-        'HOST': '192.168.1.30',
-        'PORT': '5432',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'django',
+        'USER': 'root',
+        'PASSWORD': '',
+        'HOST': '127.0.0.1',
+        'PORT': '3306'
     }
 }
 

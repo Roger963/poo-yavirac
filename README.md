@@ -1,6 +1,9 @@
 #Tarea 8. Desarrollar un programa de clases para generar una factura
+- [Installation](#installation)
 
-## Para ejecutar localmente, haga lo habitual:
+
+## Installation
+Para ejecutar localmente, haga lo habitual:
 
 1. Crear un entorno virtual de Python
 
