@@ -26,12 +26,8 @@ Para ejecutar localmente, haga lo habitual:
           
  ![alt text](https://github.com/Roger963/poo-yavirac/blob/MYcrud/media/backend.png)
 ## Fronted  
-  *          ![alt text](https://github.com/Roger963/poo-yavirac/blob/MYcrud/media/fronted.jpg)
+ ![alt text](https://github.com/Roger963/poo-yavirac/blob/MYcrud/media/fronted.jpg)
  
-
-### Resultado 
-
-![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/1.png)
 
 
 Pagina linkedin
