@@ -1,6 +1,13 @@
 #Tarea 8. Desarrollar un programa de clases para generar una factura
+- [Installation](#installation)
+- [Caracteristicas](#caracteristicas)
+- [Backend](#backend)
+- [Fronted](#fronted)
 
-## Para ejecutar localmente, haga lo habitual:
+
+
+## Installation
+Para ejecutar localmente, haga lo habitual:
 
 1. Crear un entorno virtual de Python
 
@@ -17,16 +24,14 @@
      
 
 ### Caracteristicas del programa 
-* Diagrama Aplicaciones
-                  *          ![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/Diviision%20Aplicaciones.jpg)
-* Diagrama Modelado
-                  *          ![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/Diagrama%20Modelado.jpg)
+* CLase constructora
+                  *          ![alt text](https://github.com/Roger963/poo-yavirac/blob/MYcrud/media/DashboardRoger%20-%20Frame%206%20(1).jpg)
+## Backend
+          
+ ![alt text](https://github.com/Roger963/poo-yavirac/blob/MYcrud/media/backend.png)
+## Fronted  
+ ![alt text](https://github.com/Roger963/poo-yavirac/blob/MYcrud/media/fronted.jpg)
  
-(Note: Los Archivoscontructores son en donde se encuentran las clases de cada una de las tablas.)
-
-### Resultado 
-
-![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/1.png)
 
 
 Pagina linkedin

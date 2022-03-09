@@ -37,8 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'datosBasicos',
-    'datosFactura',
+    'crud.apps.CrudConfig',
+
 ]
 
 MIDDLEWARE = [
@@ -79,9 +79,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'OPTIONS': {
-            'options': '-c search_path=facturas'
+            'options': '-c search_path=micrud'
         },
-        'NAME': 'poo',
+        'NAME': 'postgres',
         'USER': 'postgres',
         'PASSWORD': '3991',
         'HOST': '192.168.1.30',
