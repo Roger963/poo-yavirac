@@ -17,16 +17,17 @@
      
 
 ### Caracteristicas del programa 
-* Diagrama Aplicaciones
-                  *          ![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/Diviision%20Aplicaciones.jpg)
+* Diagrama logico 
+        Clases y aplicaciones
+                  *          ![alt text](https://github.com/Roger963/poo-yavirac/blob/factura/media/Diviision%20Aplicaciones.jpg)
 * Diagrama Modelado
-                  *          ![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/Diagrama%20Modelado.jpg)
+                  *          ![alt text](https://github.com/Roger963/poo-yavirac/blob/factura/media/Diagrama%20Modelado.jpg)
  
 (Note: Los Archivoscontructores son en donde se encuentran las clases de cada una de las tablas.)
 
 ### Resultado 
 
-![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/1.png)
+![alt text](https://github.com/Roger963/poo-yavirac/blob/factura/media/1.png)
 
 
 Pagina linkedin
