@@ -1,4 +1,12 @@
 
+# Diagrama del proyecto
+
+![alt text](https://github.com/Roger963/poo-yavirac/blob/herencias/media/DashboardRoger%20-%20Frame%205.jpg)
+
+
+
+
+
 Pagina linkedin
 https://www.linkedin.com/in/roger-pineda-paz-0009a91b5/
 
