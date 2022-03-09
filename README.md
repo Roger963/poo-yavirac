@@ -20,12 +20,11 @@ Para ejecutar localmente, haga lo habitual:
      
 
 ### Caracteristicas del programa 
-* Diagrama Aplicaciones
-                  *          ![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/Diviision%20Aplicaciones.jpg)
-* Diagrama Modelado
-                  *          ![alt text](https://github.com/Roger963/Yavirac/blob/poo/media/Diagrama%20Modelado.jpg)
+* CLase constructora
+                  *          ![alt text](https://github.com/Roger963/poo-yavirac/blob/MYcrud/media/DashboardRoger%20-%20Frame%206.jpg)
+* 
+                  *          ![alt text](
  
-(Note: Los Archivoscontructores son en donde se encuentran las clases de cada una de las tablas.)
 
 ### Resultado 
 
