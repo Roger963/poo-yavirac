@@ -1,6 +1,6 @@
 #Tarea 8. Desarrollar un programa de clases para generar una factura
 - [Installation](#installation)
-- [Caracteristicas](#caracteristicas del programa)
+- [Caracteristicas](#caracteristicas)
 - [Backend](#backend)
 - [Fronted](#fronted)
 
