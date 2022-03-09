@@ -22,7 +22,7 @@
  *js
 ### Descripcion de la pagina 
 * Diagrama Aplicaciones
-                  *          ![alt text](https://github.com/Roger963/Yavirac/blob/webpag/media/DashboardRoger%20-%20tarea%209.jpg)
+                  *         ![alt text](https://github.com/Roger963/poo-yavirac/blob/webpag/media/DashboardRoger%20-%20tarea%209%20(2).jpg)
  
 
 ### Resultado 
